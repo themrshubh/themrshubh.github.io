@@ -1,0 +1,13 @@
+// Custom website colors
+
+$danger: #a82a24;
+$light: #f1f4f7;
+$secondary: #99c1c3;
+$primary: #4d657d;
+$dark: #242c45;
+
+// Import everything from bootstrap
+
+@import '../node_modules/bootstrap/scss/bootstrap';
+
+// TODO: Add imports only for parts that you need
