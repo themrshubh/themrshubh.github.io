@@ -1,18 +1,20 @@
 <template>
-  <h2 class="py-2 text-center text-dark">
-    Work Experience
-  </h2>
-  <div class="p-3 p-md-5">
-    <ol class="fw-light">
-      <li v-for="(job, i) in jobs" :key="i" class="mb-5 mt-3">
-        <div class="fs-3 fw-normal">{{ job.title }}</div>
-        <div class="fs-5 mb-3 fw-normal">
-          @ {{ job.company }}
-          <span class="fw-bold fs-6 mx-2 text-danger">{{ job.year }}</span>
-        </div>
-        <div class="fs-5">{{ job.info }}</div>
-      </li>
-    </ol>
+  <div>
+    <h2 class="py-2 text-center text-dark">
+      Work Experience
+    </h2>
+    <div class="p-3 p-md-5">
+      <ol class="fw-light">
+        <li v-for="(job, i) in jobs" :key="i" class="mb-5 mt-3">
+          <div class="fs-3 fw-normal">{{ job.title }}</div>
+          <div class="fs-5 mb-3 fw-normal">
+            @ {{ job.company }}
+            <span class="fw-bold fs-6 mx-2 text-danger">{{ job.year }}</span>
+          </div>
+          <div class="fs-5">{{ job.info }}</div>
+        </li>
+      </ol>
+    </div>
   </div>
 </template>
 

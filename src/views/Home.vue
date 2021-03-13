@@ -1,13 +1,22 @@
 <template>
   <div class="container-fluid p-0 bg-light">
-    <section id="hero" class="p-4 p-md-5 border-bottom border-5">
-      <hero />
+    <section
+      id="hero"
+      class="p-4 p-md-5 border-bottom border-5 d-flex justify-content-center"
+    >
+      <hero class="section-content" />
     </section>
-    <section id="about" class="bg-danger p-4 p-md-5 border-bottom border-5">
-      <about />
+    <section
+      id="about"
+      class="bg-danger p-4 p-md-5 border-bottom border-5 d-flex justify-content-center"
+    >
+      <about class="section-content" />
     </section>
-    <section id="work" class="p-4 p-md-5 border-bottom border-5">
-      <work />
+    <section
+      id="work"
+      class="p-4 p-md-5 border-bottom border-5 d-flex justify-content-center"
+    >
+      <work class="section-content" />
     </section>
   </div>
 </template>
@@ -27,3 +36,9 @@
     },
   }
 </script>
+
+<style scoped>
+  .section-content {
+    max-width: 80rem;
+  }
+</style>

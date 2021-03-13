@@ -6,12 +6,12 @@
     <h4 class="fw-light">
       I am a graduate student @ NC State University and I love to code.
     </h4>
+    <img
+      src="../assets/dp.jpg"
+      alt="A picture of Shubham Mankar"
+      class="border border-5 d-block mx-auto my-5 rounded-circle rsp-dp"
+    />
   </div>
-  <img
-    src="../assets/dp.jpg"
-    alt="A picture of Shubham Mankar"
-    class="border border-5 d-block mx-auto my-5 rounded-circle rsp-dp"
-  />
 </template>
 
 <script>
