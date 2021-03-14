@@ -16,7 +16,7 @@
       id="work"
       class="p-4 p-md-5 border-bottom border-5 d-flex justify-content-center"
     >
-      <work class="section-content" />
+      <work title="Work Experience" class="section-content w-100" />
     </section>
     <section
       id="skills"
