@@ -18,6 +18,12 @@
     >
       <work class="section-content" />
     </section>
+    <section
+      id="skills"
+      class="bg-dark p-4 p-md-5 border-bottom border-5 d-flex justify-content-center"
+    >
+      <skills class="section-content" />
+    </section>
   </div>
 </template>
 
@@ -25,6 +31,7 @@
   import Hero from '../components/Hero'
   import About from '../components/About'
   import Work from '../components/Work'
+  import Skills from '../components/Skills'
 
   export default {
     name: 'Home',
@@ -33,6 +40,7 @@
       Hero,
       About,
       Work,
+      Skills,
     },
   }
 </script>

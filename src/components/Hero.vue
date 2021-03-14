@@ -7,7 +7,9 @@
       I am a graduate student @ NC State University and I love to code.
     </h4>
     <img
-      src="../assets/dp.jpg"
+      ref="lazy"
+      src="../assets/ph.png"
+      :data-src="require('../assets/dp.png')"
       alt="A picture of Shubham Mankar"
       class="border border-5 d-block mx-auto my-5 rounded-circle rsp-dp"
     />
@@ -17,6 +19,11 @@
 <script>
   export default {
     name: 'Hero',
+
+    mounted() {
+      let img = this.$refs['lazy']
+      img.src = img.getAttribute('data-src')
+    },
   }
 </script>
 
