@@ -25,7 +25,7 @@
       <skills class="section-content" />
     </section>
     <section
-      id="skills"
+      id="projects"
       class="p-4 p-md-5 border-bottom border-5 d-flex justify-content-center"
     >
       <projects class="section-content" />
@@ -48,6 +48,12 @@
     >
       <photos class="section-content w-100" />
     </section>
+    <section
+      id="footer"
+      class="bg-dark p-4 p-md-5 d-flex justify-content-center"
+    >
+      <foot class="section-content" />
+    </section>
   </div>
 </template>
 
@@ -59,6 +65,7 @@
   import Projects from '../components/Projects'
   import Interests from '../components/Interests'
   import Photos from '../components/Photos'
+  import Foot from '../components/Foot'
 
   export default {
     name: 'Home',
@@ -71,6 +78,7 @@
       Projects,
       Interests,
       Photos,
+      Foot,
     },
   }
 </script>

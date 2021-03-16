@@ -3,12 +3,8 @@
     <h2 class="py-2">
       Skills
     </h2>
-    <ul class="p-0 my-5">
-      <li
-        v-for="(icon, i) in icons"
-        :key="i"
-        class="tech-icon-list d-inline-block px-2 py-3"
-      >
+    <ul class="p-0 my-5 list-unstyled">
+      <li v-for="(icon, i) in icons" :key="i" class="d-inline-block px-2 py-3">
         <div class="d-inline">
           <img
             :ref="setIconRef"
@@ -78,11 +74,6 @@
 </script>
 
 <style scoped>
-  .tech-icon-list {
-    display: inline;
-    list-style-type: none;
-  }
-
   .tech-icon {
     height: 64px;
     width: 64px;
