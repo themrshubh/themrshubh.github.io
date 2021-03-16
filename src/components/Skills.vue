@@ -13,7 +13,7 @@
           <img
             :ref="setIconRef"
             src="../assets/ph.png"
-            :data-src="getURL(icon)"
+            :data-src="require(`../assets/icons/${icon}.svg`)"
             :alt="icon.toUpperCase()"
             :title="icon.toUpperCase()"
             class="tech-icon"
@@ -68,10 +68,6 @@
     },
 
     methods: {
-      getURL(icon) {
-        return require(`../assets/icons/${icon}.svg`)
-      },
-
       setIconRef(el) {
         if (el) {
           this.iconRefs.push(el)

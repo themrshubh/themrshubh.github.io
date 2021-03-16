@@ -42,6 +42,12 @@
     >
       <interests class="section-content w-100" />
     </section>
+    <section
+      id="photos"
+      class="p-4 p-md-5 border-bottom border-5 d-flex justify-content-center"
+    >
+      <photos class="section-content w-100" />
+    </section>
   </div>
 </template>
 
@@ -52,6 +58,7 @@
   import Skills from '../components/Skills'
   import Projects from '../components/Projects'
   import Interests from '../components/Interests'
+  import Photos from '../components/Photos'
 
   export default {
     name: 'Home',
@@ -63,6 +70,7 @@
       Skills,
       Projects,
       Interests,
+      Photos,
     },
   }
 </script>
