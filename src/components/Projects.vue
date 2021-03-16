@@ -6,6 +6,7 @@
         <template v-for="i in getIndices(index)" :key="`${index}${i}`">
           <div v-if="i < projects.length" class="col-md-6 mb-4">
             <project
+              class="project"
               :title="projects[i].title"
               :lang="projects[i].lang"
               :year="projects[i].year"
@@ -54,4 +55,12 @@
   }
 </script>
 
-<style></style>
+<style scoped>
+  .project {
+    transition: transform 0.3s ease;
+  }
+
+  .project:hover {
+    transform: scale(1.02);
+  }
+</style>
