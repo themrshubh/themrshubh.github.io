@@ -31,10 +31,16 @@
       <projects class="section-content" />
     </section>
     <section
-      id="work"
+      id="education"
       class="p-4 p-md-5 border-bottom border-5 d-flex justify-content-center"
     >
       <work title="Education" class="section-content w-100" />
+    </section>
+    <section
+      id="interests"
+      class="bg-dark p-4 p-md-5 border-bottom border-5 d-flex justify-content-center"
+    >
+      <interests class="section-content w-100" />
     </section>
   </div>
 </template>
@@ -45,6 +51,7 @@
   import Work from '../components/Work'
   import Skills from '../components/Skills'
   import Projects from '../components/Projects'
+  import Interests from '../components/Interests'
 
   export default {
     name: 'Home',
@@ -55,6 +62,7 @@
       Work,
       Skills,
       Projects,
+      Interests,
     },
   }
 </script>
