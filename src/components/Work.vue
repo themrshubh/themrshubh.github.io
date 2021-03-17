@@ -14,6 +14,19 @@
           <div class="fs-5">{{ item.info }}</div>
         </li>
       </ol>
+      <div v-if="title != 'Education'" class="text-center">
+        <a
+          href="https://www.linkedin.com/in/smankar"
+          class="btn btn-dark m-2"
+          target="_blank"
+        >
+          Linkedin
+        </a>
+        <!-- TODO: Add resume download -->
+        <a href="#" class="btn btn-danger m-2">
+          Resume
+        </a>
+      </div>
     </div>
   </div>
 </template>
