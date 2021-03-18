@@ -1,6 +1,15 @@
 <template>
   <div class="text-center">
-    <p class="fs-2 sign text-white">SMankar</p>
+    <p class="fs-1 sign text-white m-4">SMankar</p>
+    <div class="fw-light fs-5 mb-4">
+      <!-- <span class="text-primary">You can reach me at</span> -->
+      <a
+        class="text-decoration-none text-primary"
+        href="contact@shubhammankar.com"
+      >
+        contact@smankar.com
+      </a>
+    </div>
     <ul class="p-0 mt-3 list-unstyled">
       <li class="d-inline-block">
         <a href="#hero" class="btn btn-sm btn-dark">Home</a>
