@@ -46,19 +46,19 @@
             title: 'Software Development Engineer',
             subtitle: 'Nudron IoT Solutions',
             year: '2021',
-            info: `Working at Nudron has given me a great insight into how companies operate. At Nudron, I am developing a single page web application using Vue.JS while also assisting the team in back-end technologies and processes.`,
+            info: `At Nudron, I developed an operational dashboard using Vuejs to keep a track of users and IoT devices. I also developed a chat application using Websockets in Golang and JS.`,
           },
           {
             title: 'Web Development Intern',
             subtitle: 'Tata Consultancy Services',
             year: '2019',
-            info: `I got a comprehensive experience of developing high-quality Full Stack websites as I worked as a Web Development Intern in the summer of 2019. My time at TCS was inspiring, and I learned a lot from this internship.`,
+            info: `During the internship, I worked as a Full Stack Developer and worked on an Appointment Booking System for the client. The technologies used for this included Angular, Springboot and MySQL.`,
           },
           {
             title: 'Research Intern',
             year: '2018',
             subtitle: 'Fr. Conceicao Rodrigues College of Engineering',
-            info: `In the summer or 2018, I worked on a fascinating university-funded research project. It challenged me to undertake numerous responsibilities and work with technologies in which I had insignificant knowledge.`,
+            info: `As a research intern, I was responsible of creating a client-end web application to track and manage a smart wearable watch. We used Arduino Uno for the development of the smart watch, and Angular for front-end development.`,
           },
         ],
 

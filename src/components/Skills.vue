@@ -7,7 +7,7 @@
       <li v-for="(icon, i) in icons" :key="i" class="d-inline-block px-2 py-3">
         <img
           :ref="setIconRef"
-          src="../assets/ph.png"
+          src="../assets/images/ph/common.png"
           :data-src="require(`../assets/icons/${icon.url}.svg`)"
           :alt="icon.name"
           :title="icon.name"

@@ -8,8 +8,8 @@
     </h4>
     <img
       ref="lazy"
-      src="../assets/ph.png"
-      :data-src="require('../assets/dp.png')"
+      src="../assets/images/ph/common.png"
+      :data-src="require('../assets/images/display.jpg')"
       alt="A picture of Shubham Mankar"
       class="border border-5 d-block mx-auto my-5 rounded-circle rsp-dp"
     />
