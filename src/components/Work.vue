@@ -22,8 +22,7 @@
         >
           Linkedin
         </a>
-        <!-- TODO: Add resume download -->
-        <a href="#" class="btn btn-danger m-2">
+        <a :href="pdf" class="btn btn-danger m-2" download="Shubham-Mankar">
           Resume
         </a>
       </div>
@@ -32,6 +31,8 @@
 </template>
 
 <script>
+  import pdf from '../assets/resume.pdf'
+
   export default {
     props: {
       title: { type: String, default: 'Error' },
@@ -39,6 +40,7 @@
 
     data() {
       return {
+        pdf: pdf,
         jobs: [
           {
             title: 'Software Development Engineer',
