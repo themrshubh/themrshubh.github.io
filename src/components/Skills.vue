@@ -5,16 +5,14 @@
     </h2>
     <ul class="p-0 my-5 list-unstyled">
       <li v-for="(icon, i) in icons" :key="i" class="d-inline-block px-2 py-3">
-        <div class="d-inline">
-          <img
-            :ref="setIconRef"
-            src="../assets/ph.png"
-            :data-src="require(`../assets/icons/${icon}.svg`)"
-            :alt="icon.toUpperCase()"
-            :title="icon.toUpperCase()"
-            class="tech-icon"
-          />
-        </div>
+        <img
+          :ref="setIconRef"
+          src="../assets/ph.png"
+          :data-src="require(`../assets/icons/${icon.url}.svg`)"
+          :alt="icon.name"
+          :title="icon.name"
+          class="tech-icon"
+        />
       </li>
     </ul>
     <div class="p-3 p-md-5 fw-light fs-4">
@@ -25,22 +23,21 @@
 </template>
 
 <script>
-  // TODO: Add tooltips to icons
   export default {
     data() {
       return {
         iconRefs: [],
         icons: [
-          'js',
-          'angular',
-          'firebase',
-          'git',
-          'go',
-          'html',
-          'css',
-          'python',
-          'vue',
-          'aws',
+          { name: 'Javascript', url: 'js' },
+          { name: 'Angular', url: 'angular' },
+          { name: 'Firebase', url: 'firebase' },
+          { name: 'Git', url: 'git' },
+          { name: 'Golang', url: 'go' },
+          { name: 'HTML', url: 'html' },
+          { name: 'CSS', url: 'css' },
+          { name: 'Python', url: 'python' },
+          { name: 'Vuejs', url: 'vue' },
+          { name: 'Amazon Web Services', url: 'aws' },
         ],
       }
     },
@@ -77,5 +74,13 @@
   .tech-icon {
     height: 64px;
     width: 64px;
+  }
+
+  .custom-tooltip {
+    position: absolute;
+    top: -25px;
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap;
   }
 </style>
