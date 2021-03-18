@@ -4,12 +4,15 @@
     <div class="fw-light fs-5 mb-4">
       <!-- <span class="text-primary">You can reach me at</span> -->
       <a
-        class="text-decoration-none text-primary"
-        href="contact@shubhammankar.com"
+        class="text-decoration-none text-light"
+        href="mailto:contact@shubhammankar.com"
       >
-        contact@smankar.com
+        contact@shubhammankar.com
       </a>
     </div>
+    <p class="text-primary m-4">
+      Handcrafted by me with &#10084;&nbsp;&nbsp; using Bootstrap 5
+    </p>
     <ul class="p-0 mt-3 list-unstyled">
       <li class="d-inline-block">
         <a href="#hero" class="btn btn-sm btn-dark">Home</a>
