@@ -1,7 +1,8 @@
 <template>
   <a
-    href="#"
+    :href="url"
     class="border border-3 rounded-3 py-3 px-4 w-100 d-block text-reset text-decoration-none bg-white"
+    target="_blank"
     @mouseenter="hover = true"
     @mouseleave="hover = false"
   >
@@ -17,6 +18,7 @@
   export default {
     props: {
       title: { type: String, default: 'Project' },
+      url: { type: String, default: '#' },
       lang: { type: String, default: 'Language' },
       year: { type: String, default: 'YYYY' },
     },

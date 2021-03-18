@@ -10,6 +10,7 @@
               :title="projects[i].title"
               :lang="projects[i].lang"
               :year="projects[i].year"
+              :url="projects[i].url"
             />
           </div>
         </template>
@@ -35,9 +36,30 @@
     data() {
       return {
         projects: [
-          { title: 'Algorithm Visualizer', lang: 'Javascript', year: '2021' },
-          { title: 'Custom Playfair Cipher', lang: 'Python', year: '2019' },
-          { title: 'Sentiment Analyzer', lang: 'Python', year: '2019' },
+          {
+            title: 'Algorithm Visualizer',
+            url: 'https://github.com/themrshubh/algorithm-visualizer',
+            lang: 'Javascript',
+            year: '2021',
+          },
+          {
+            title: 'Custom Playfair Cipher',
+            url: 'https://github.com/themrshubh/custom-playfair-cipher',
+            lang: 'Python',
+            year: '2019',
+          },
+          {
+            title: 'Sentiment Analyzer',
+            url: 'https://github.com/themrshubh/sentiment-analysis',
+            lang: 'Python',
+            year: '2019',
+          },
+          {
+            title: 'College Suggestions Website',
+            url: 'https://github.com/themrshubh/suggestions-web',
+            lang: 'Angular',
+            year: '2018',
+          },
         ],
       }
     },
