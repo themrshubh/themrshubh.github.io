@@ -30,7 +30,11 @@
       </div>
     </div>
     <p class="fw-light mt-5">
-      <a href="#about" class="fs-4 text-decoration-none text-danger">
+      <a
+        href="https://www.instagram.com/themrshubh"
+        class="fs-4 text-decoration-none text-danger"
+        target="_blank"
+      >
         @themrshubh
       </a>
       on Instagram
