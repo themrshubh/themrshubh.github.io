@@ -5,9 +5,9 @@
     </h2>
     <p class="p-3 p-md-5 fs-4 fw-light text-light">
       Apart from being a full time student, I am exploring iOS Development using
-      Swift owing to my interest in software development and the Apple. I am
-      also getting started in Open Source software development. In my free time,
-      I love watching TV Shows &nbsp;&mdash;&nbsp; some of my favorite ones are
+      Swift owing to my interest in software development and Apple. I am also
+      getting started in Open Source software development. In my free time, I
+      love watching TV Shows &nbsp;&mdash;&nbsp; some of my favorite ones are
       Modern Family and the Office. Other than that, I like learning about
       productivity and
       <a
