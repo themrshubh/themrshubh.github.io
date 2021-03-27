@@ -22,7 +22,7 @@
         >
           Linkedin
         </a>
-        <a :href="pdf" class="btn btn-danger m-2" download="Shubham-Mankar">
+        <a :href="pdf" class="btn btn-danger m-2" target="_blank">
           Resume
         </a>
       </div>
