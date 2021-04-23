@@ -20,10 +20,10 @@
           class="btn btn-dark m-2"
           target="_blank"
         >
-          Linkedin
+          💻 Linkedin
         </a>
         <a :href="pdf" class="btn btn-danger m-2" target="_blank">
-          Resume
+          📝 Resume
         </a>
       </div>
     </div>
