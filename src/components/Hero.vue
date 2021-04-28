@@ -1,10 +1,11 @@
 <template>
   <div class="text-center text-dark">
     <h1 class="my-5">
-      Software Developer & Graduate Student
+      Software Developer
     </h1>
     <h4 class="fw-light">
-      I am a graduate student @ NC State University and I love to code.
+      I am an incoming graduate student @ NC State University and I love to
+      code.
     </h4>
     <img
       ref="lazy"

@@ -46,13 +46,13 @@
             title: 'Software Development Engineer',
             subtitle: 'Nudron IoT Solutions',
             year: '2021',
-            info: `At Nudron, I developed an operational dashboard using Vuejs to keep a track of users and IoT devices. I also developed a chat application using Websockets in Golang and JS.`,
+            info: `At Nudron, I developed an operational dashboard using Vuejs to keep a track of and manage users and IoT devices. I also developed a chat application using Websockets in Golang and JS.`,
           },
           {
             title: 'Web Development Intern',
             subtitle: 'Tata Consultancy Services',
             year: '2019',
-            info: `During the internship, I worked as a Full Stack Developer and worked on an Appointment Booking System for the client. The technologies used for this included Angular, Springboot and MySQL.`,
+            info: `During the internship, I worked as a Full Stack Developer on a Medical Appointment Booking System for the client. The technologies used for this included Angular, Springboot and MySQL.`,
           },
           {
             title: 'Research Intern',
