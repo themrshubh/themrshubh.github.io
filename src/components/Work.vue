@@ -58,7 +58,7 @@
             title: 'Research Intern',
             year: '2018',
             subtitle: 'Fr. Conceicao Rodrigues College of Engineering',
-            info: `As a research intern, I was responsible of creating a client-end web application to track and manage a smart wearable watch. We used Arduino Uno for the development of the smart watch, and Angular for front-end development.`,
+            info: `As a research intern, I was responsible for creating a client-end web application to track and manage a smart wearable watch. We used Arduino Uno for the development of the smart watch, and Angular for front-end development.`,
           },
         ],
 
