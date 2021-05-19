@@ -67,7 +67,7 @@
             title: 'University of Mumbai',
             subtitle: 'Fr. Conceicao Rodrigues College of Engineering',
             year: '2020',
-            info: `Bachelors of Engineering (B.E.) of Computer Engineering - 8.72 / 10`,
+            info: `Bachelors of Engineering (B.E.) in Computer Engineering - 8.72 / 10`,
           },
           {
             title: 'Maharashtra State Board',
