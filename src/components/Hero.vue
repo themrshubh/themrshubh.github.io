@@ -4,7 +4,7 @@
       Software Developer
     </h1>
     <h4 class="fw-light">
-      I am an incoming graduate student @ NC State University and I love to
+      I am a graduate student @ NC State University and I love to
       code.
     </h4>
     <img
