@@ -11,7 +11,7 @@
       </a>
     </div>
     <p class="text-primary m-4">
-      Handcrafted by me with 💖 using Bootstrap 5
+      Handcrafted by me with 💖
     </p>
     <ul class="p-0 mt-3 list-unstyled">
       <li class="d-inline-block">
