@@ -64,20 +64,26 @@
 
         schools: [
           {
+            title: 'North Carolina State University, Raleigh',
+            subtitle: 'Master of Computer Science',
+            year: 'Present',
+            info: `Coursework includes Design and Analysis of Algorithms, Automated Learning and Data Analytics, and Software Engineering`,
+          },
+          {
             title: 'University of Mumbai',
-            subtitle: 'Fr. Conceicao Rodrigues College of Engineering',
+            subtitle: 'Bachelors of Engineering in Computer Engineering',
             year: '2020',
-            info: `Bachelors of Engineering (B.E.) in Computer Engineering - 8.72 / 10`,
+            info: `CGPA: 8.72/10. Coursework included Natural Language Processing, Web Development, Database Management, Digital Signal and Image Processing and Discrete Mathematics`,
           },
           {
             title: 'Maharashtra State Board',
-            subtitle: 'Pace Junior Science College',
+            subtitle: 'Higher Secondary Certificate - Science',
             year: '2016',
             info: `H.S.C - 82.30 %`,
           },
           {
             title: 'Maharashtra State Board',
-            subtitle: 'Oxford Public School',
+            subtitle: 'Secondary School Certificate',
             year: '2014',
             info: `S.S.C - 93.60 %`,
           },
