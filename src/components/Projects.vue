@@ -37,6 +37,12 @@
       return {
         projects: [
           {
+            title: 'Slash: Scraper',
+            url: 'https://github.com/secheaper/slash',
+            lang: 'Python',
+            year: '2021',
+          },
+          {
             title: 'Algorithm Visualizer',
             url: 'https://github.com/themrshubh/algorithm-visualizer',
             lang: 'Javascript',
