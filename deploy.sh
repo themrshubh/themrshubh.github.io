@@ -22,5 +22,6 @@ echo Deploying
 git init
 git add -A
 git commit -m 'Deploy'
-git push -f git@github.com:themrshubh/themrshubh.github.io.git master:main
+# git push -f git@github.com:themrshubh/themrshubh.github.io.git master:main
+git push -f https://github.com/themrshubh/themrshubh.github.io.git master:main
 cd -

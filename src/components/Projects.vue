@@ -37,6 +37,12 @@
       return {
         projects: [
           {
+            title: 'MRI Classifier',
+            url: 'https://github.com/themrshubh/mriclassifier',
+            lang: 'Python',
+            year: '2021',
+          },
+          {
             title: 'Slash: Scraper',
             url: 'https://github.com/secheaper/slash',
             lang: 'Python',

@@ -43,6 +43,12 @@
         pdf: pdf,
         jobs: [
           {
+            title: 'Graduate Assistant',
+            subtitle: 'North Carolina State University',
+            year: '2022',
+            info: `I am currently assisting the Computer Science department at NC State in creating evaluation reports for undergraduate Computer Science courses.`,
+          },
+          {
             title: 'Software Development Engineer',
             subtitle: 'Nudron IoT Solutions',
             year: '2021',
@@ -67,13 +73,13 @@
             title: 'North Carolina State University, Raleigh',
             subtitle: 'Master of Computer Science',
             year: 'Present',
-            info: `Coursework includes Design and Analysis of Algorithms, Automated Learning and Data Analytics, and Software Engineering`,
+            info: `GPA: 4.0/4.0. Coursework includes Design and Analysis of Algorithms, Automated Learning and Data Analytics, Software Engineering, Database Systems, User Experience and Software Security`,
           },
           {
             title: 'University of Mumbai',
             subtitle: 'Bachelors of Engineering in Computer Engineering',
             year: '2020',
-            info: `CGPA: 8.72/10. Coursework included Natural Language Processing, Web Development, Database Management, Digital Signal and Image Processing and Discrete Mathematics`,
+            info: `CGPA: 8.72/10. Coursework included Natural Language Processing, Web Development, Digital Signal and Image Processing and Discrete Mathematics`,
           },
           {
             title: 'Maharashtra State Board',

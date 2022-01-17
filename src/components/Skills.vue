@@ -32,6 +32,7 @@
           { name: 'Angular', url: 'angular' },
           { name: 'Firebase', url: 'firebase' },
           { name: 'Git', url: 'git' },
+          { name: 'Java', url: 'java' },
           { name: 'Golang', url: 'go' },
           { name: 'HTML', url: 'html' },
           { name: 'CSS', url: 'css' },
