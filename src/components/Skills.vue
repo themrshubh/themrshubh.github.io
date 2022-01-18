@@ -39,6 +39,7 @@
           { name: 'Python', url: 'python' },
           { name: 'Vuejs', url: 'vue' },
           { name: 'Amazon Web Services', url: 'aws' },
+          { name: 'Node.js', url: 'node' },
         ],
       }
     },
