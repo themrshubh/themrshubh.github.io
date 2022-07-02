@@ -16,8 +16,7 @@
       </li>
     </ul>
     <div class="p-3 p-md-5 fw-light fs-4">
-      These are a few technologies that I have worked with. I look forward to
-      learning and adding more to this list very soon.
+      These are a few technologies that I have worked with.
     </div>
   </div>
 </template>
@@ -37,9 +36,12 @@
           { name: 'HTML', url: 'html' },
           { name: 'CSS', url: 'css' },
           { name: 'Python', url: 'python' },
+          { name: 'Docker', url: 'docker' },
           { name: 'Vuejs', url: 'vue' },
           { name: 'Amazon Web Services', url: 'aws' },
           { name: 'Node.js', url: 'node' },
+          { name: 'Kubernetes', url: 'kube' },
+          { name: 'Azure', url: 'azure' },
         ],
       }
     },

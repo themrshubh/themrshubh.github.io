@@ -43,10 +43,16 @@
         pdf: pdf,
         jobs: [
           {
+            title: 'Software Engineer Intern',
+            subtitle: 'The Mathworks Inc.',
+            year: '2022',
+            info: `I am currently working in the MATLAB Online Server (MOS) team on integrating Azure cloud resources with MOS using Golang, Docker, and Kubernetes`,
+          },
+          {
             title: 'Graduate Assistant',
             subtitle: 'North Carolina State University',
             year: '2022',
-            info: `I am currently assisting the Computer Science department at NC State in creating evaluation reports for undergraduate Computer Science courses.`,
+            info: `I assisted the Computer Science department at NC State in creating evaluation reports for undergraduate Computer Science courses.`,
           },
           {
             title: 'Software Development Engineer',
@@ -70,7 +76,7 @@
 
         schools: [
           {
-            title: 'North Carolina State University, Raleigh',
+            title: 'North Carolina State University',
             subtitle: 'Master of Computer Science',
             year: 'Present',
             info: `GPA: 4.0/4.0. Coursework includes Design and Analysis of Algorithms, Automated Learning and Data Analytics, Software Engineering, Database Systems, User Experience and Software Security`,

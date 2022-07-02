@@ -1,7 +1,7 @@
 <template>
   <div class="text-light">
     <h2 class="py-2 text-center">
-      Hello World, I'm Shubham Mankar ✨
+      Hello World, I'm Shubham Mankar
     </h2>
     <p class="p-3 p-md-5 fw-light fs-4">
       I am a graduate with a Bachelor's Degree in Computer Engineering. Having

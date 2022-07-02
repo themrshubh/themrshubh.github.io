@@ -6,15 +6,9 @@
     <p class="p-3 p-md-5 fs-4 fw-light text-light">
       In my free time, I like watching TV Shows &nbsp;&mdash;&nbsp; two of my
       favorites are Modern Family and the Office. I also enjoy playing with dogs
-      and listening to music by artists like Ed Sheeran, Queen, Logic, and
-      Twenty One Pilots. Other than that, I like learning about productivity and
-      <a
-        href="https://www.theminimalists.com/"
-        class="text-primary fw-normal text-decoration-none"
-        target="_blank"
-      >
-        Minimalism.
-      </a>
+      and listening to music by artists like Ed Sheeran, Queen, Juice WRLD, and
+      Twenty One Pilots. Other than that, I love listening to podcasts and
+      having new experiences!
     </p>
   </div>
 </template>
