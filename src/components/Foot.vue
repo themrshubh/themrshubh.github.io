@@ -1,17 +1,8 @@
 <template>
   <div class="text-center">
     <p class="fs-1 sign text-white m-4">SMankar</p>
-    <div class="fw-light fs-5 mb-4">
-      <!-- <span class="text-primary">You can reach me at</span> -->
-      <a
-        class="text-decoration-none text-light"
-        href="mailto:contact@shubhammankar.com"
-      >
-        contact@shubhammankar.com
-      </a>
-    </div>
     <p class="text-primary m-4">
-      Handcrafted by me with 💖
+      "In a world where you can be anything you want, be kind"
     </p>
     <ul class="p-0 mt-3 list-unstyled">
       <li class="d-inline-block">

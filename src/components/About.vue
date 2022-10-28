@@ -4,12 +4,11 @@
       Hello World, I'm Shubham Mankar
     </h2>
     <p class="p-3 p-md-5 fw-light fs-4">
-      I am a graduate with a Bachelor's Degree in Computer Engineering. Having
-      worked on an array of exciting projects through my undergraduate degree, I
-      am eager to explore new opportunities. I love taking on challenges and am
-      very quick to learn and adapt. I am currently well-versed with Web
-      Development and am thrilled to venture into various Computer Science
-      sectors.
+      I am a happy kid working on things that I find cool with smart folks who do extraordinary things. 
+      As an NC State graduate, I enjoy working on projects that help humankind progress, push boundaries, 
+      and make life just a little bit easier. My past experiences have shaped me into the person 
+      and developer I am today, and I am constantly looking for opportunities to learn and develop. 
+      Finally, kindness, integrity, compassion, and determination are some values that I try my best to live by. 
     </p>
   </div>
 </template>

@@ -46,7 +46,7 @@
             title: 'Software Engineer Intern',
             subtitle: 'The Mathworks Inc.',
             year: '2022',
-            info: `I am currently working in the MATLAB Online Server (MOS) team on integrating Azure cloud resources with MOS using Golang, Docker, and Kubernetes`,
+            info: `During my summer internship at the Mathworks, I worked in the MATLAB Online Server (MOS) team on integrating Azure cloud resources with MOS using Golang, Docker, and Kubernetes`,
           },
           {
             title: 'Graduate Assistant',
@@ -66,12 +66,12 @@
             year: '2019',
             info: `During the internship, I worked as a Full Stack Developer on a Medical Appointment Booking System for the client. The technologies used for this included Angular, Springboot and MySQL.`,
           },
-          {
-            title: 'Research Intern',
-            year: '2018',
-            subtitle: 'Fr. Conceicao Rodrigues College of Engineering',
-            info: `As a research intern, I was responsible for creating a client-end web application to track and manage a smart wearable watch. We used Arduino Uno for the development of the smart watch, and Angular for front-end development.`,
-          },
+          // {
+          //   title: 'Research Intern',
+          //   year: '2018',
+          //   subtitle: 'Fr. Conceicao Rodrigues College of Engineering',
+          //   info: `As a research intern, I was responsible for creating a client-end web application to track and manage a smart wearable watch. We used Arduino Uno for the development of the smart watch, and Angular for front-end development.`,
+          // },
         ],
 
         schools: [
@@ -79,7 +79,7 @@
             title: 'North Carolina State University',
             subtitle: 'Master of Computer Science',
             year: 'Present',
-            info: `GPA: 4.0/4.0. Coursework includes Design and Analysis of Algorithms, Automated Learning and Data Analytics, Software Engineering, Database Systems, User Experience and Software Security`,
+            info: `GPA: 4.0/4.0. Coursework includes Design and Analysis of Algorithms, Automated Learning and Data Analytics, Software Engineering, Database Systems, User Experience, Software Security, Computer Networks and Computational Molecular Biology`,
           },
           {
             title: 'University of Mumbai',
